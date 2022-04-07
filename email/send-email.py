@@ -10,7 +10,7 @@
 
 # # Gmail Sign In
 # gmail_sender = 'unifyshop.contact@gmail.com'
-# gmail_passwd = 'ail&continue=https%3A%2'
+# gmail_passwd = '###########################'
 
 # server = smtplib.SMTP('smtp.gmail.com', 587)
 # server.ehlo()
