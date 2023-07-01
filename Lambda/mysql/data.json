@@ -1,0 +1,22 @@
+{
+    "unit": "116",
+    "licenseid": "ID1234567",
+    "owneroperator": false,
+    "Loads": [
+        {
+            "deliverydate2": "",
+            "dispatch": "Abdul Sharif",
+            "rate": "54678",
+            "origin": "Tokyo, Japan",
+            "destination": "Seoul, South Korea",
+            "pickupdate": "06/07/2022",
+            "deliverydate": "06/13/2022",
+            "loadnumber": "load123456",
+            "miles": "4563"
+        }
+    ],
+    "address": "123 Main St, Roselle, IL 60179",
+    "driver": "AbdulSharif",
+    "email": "abdulsharif@example.com",
+    "phone": "2248406677"
+}

@@ -1,0 +1,58 @@
+{
+    "licenseid": {
+      "S": "ID7654321"
+    },
+    "driver": {
+      "S": "John Doe"
+    },
+    "address": {
+      "S": "123 Main St, Roselle, IL 60179"
+    },
+    "email": {
+      "S": "JohnDoe@example.com"
+    },
+    "NewValue": {
+      "L": [
+        {
+          "M": {
+            "deliverydate": {
+              "S": "06/13/2022"
+            },
+            "deliverydate2": {
+              "S": ""
+            },
+            "destination": {
+              "S": "Seoul, South Korea"
+            },
+            "dispatch": {
+              "S": "John Doe"
+            },
+            "loadnumber": {
+              "S": "load098723"
+            },
+            "miles": {
+              "S": "5432"
+            },
+            "origin": {
+              "S": "Tokyo, Japan"
+            },
+            "pickupdate": {
+              "S": "06/07/2022"
+            },
+            "rate": {
+              "S": "2345"
+            }
+          }
+        }
+      ]
+    },
+    "owneroperator": {
+      "BOOL": false
+    },
+    "phone": {
+      "S": ""
+    },
+    "unit": {
+      "S": "116"
+    }
+  }

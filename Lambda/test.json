@@ -1,0 +1,75 @@
+{
+    "Items": 
+    [
+        {
+            "amount": "300", 
+            "id": "1", 
+            "type": 
+            "Purchase"
+        }
+    ], 
+    "Count": 1, 
+    "ScannedCount": 1, 
+    "ResponseMetadata": {
+        "RequestId": "S6G244OTJ41CKLOFCTST6E9B1JVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+        "HTTPStatusCode": 200, 
+        "HTTPHeaders": {
+            "server": "Server", 
+            "date": "Thu, 30 Jun 2022 00:30:30 GMT", 
+            "content-type": "application/x-amz-json-1.0", 
+            "content-length": "100", 
+            "connection": "keep-alive", 
+            "x-amzn-requestid": "S6G244OTJ41CKLOFCTST6E9B1JVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+            "x-amz-crc32": "479028299"
+        }, 
+            "RetryAttempts": 0
+    }
+},
+
+{
+    {
+        "id": {
+          "N": "3"
+        }
+    },
+    {
+        "deliveryDate": {
+          "S": "02/22/2022"
+        }
+    },
+    {
+        "driver": {
+          "S": "DovudSharif"
+        }
+    },
+    {
+        "loadNumber": {
+          "S": "L768983w"
+        }
+    },
+    {
+        "miles": {
+          "N": "574"
+        }
+    },
+    {
+        "origin": {
+          "S": "San Diego, CA"
+        }
+    },
+    {
+        "pickUpdate": {
+          "S": "02/22/2022"
+        }
+    },
+    {
+        "rate": {
+          "N": "2940"
+        }
+    },
+    {
+        "secondDdate": {
+          "S": Null
+        }
+    }
+}
