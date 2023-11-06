@@ -45,7 +45,7 @@ def send_order_Mail():
     # you == recipient's email address
     name = "FIRST & LAST NAME"
     me = "EMAIL ACCOUNT USED TO SEND EMAIL"
-    you = "TARGET EMAIL"
+    you = "TARGET EMAIL "
 
     # Create message container - the correct MIME type is multipart/alternative.
     msg = MIMEMultipart('alternative')
